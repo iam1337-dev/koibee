@@ -1,0 +1,31 @@
+{
+  "name": "koibee",
+  "version": "1.0.0",
+  "description": "A zero dependency library for generating random users without any API calls.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iam1337-dev/koibee.git"
+  },
+  "keywords": [
+    "random",
+    "user",
+    "generator",
+    "randomuser",
+    "fake",
+    "data",
+    "nationality"
+  ],
+  "author": "LEET HUDKA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iam1337-dev/koibee/issues"
+  },
+  "homepage": "https://github.com/iam1337-dev/koibee#readme"
+}
